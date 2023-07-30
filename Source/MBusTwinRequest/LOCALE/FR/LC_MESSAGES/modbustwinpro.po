@@ -1,0 +1,892 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2006-02-27 14:08\n"
+"PO-Revision-Date: 2006-02-27 14:09+0100\n"
+"Last-Translator: yome <y@me.fr>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.2.1\n"
+"X-Poedit-Language: French\n"
+
+msgid "ENG"
+msgstr "FRA"
+
+#. ComSetupFrm..Caption
+#. ComTrmSetForm..Caption
+#: CPortSetup.dfm:5
+msgid "Setup"
+msgstr "Configuration"
+
+#. ComSetupFrm..Font.Name
+#. ComTrmSetForm..Font.Name
+#. DebugForm..Font.Name
+#. DetailForm..Font.Name
+#. LicenceForm..Font.Name
+#. MainForm..Font.Name
+#. MainForm..MBusPanel..AddBtn..Font.Name
+#. MainForm..MBusPanel..DelBtn..Font.Name
+#. MainForm..MBusPanel..LoadBtn..Font.Name
+#. MainForm..MBusPanel..SaveBtn..Font.Name
+#. MainForm..MBusPanel..ClearBtn..Font.Name
+#. MainForm..MBusPanel..ExportBtn..Font.Name
+#. MainForm..RequestBtn..Font.Name
+#: CPortSetup.dfm:12
+#: Licence.dfm:12
+#: Main.dfm:11
+#: Main.dfm:274
+#: Main.dfm:289
+#: Main.dfm:304
+#: Main.dfm:319
+#: Main.dfm:334
+#: Main.dfm:349
+#: Main.dfm:399
+msgid "MS Sans Serif"
+msgstr ""
+
+#. ComSetupFrm..Button1..Caption
+#. ComTrmSetForm..Button1..Caption
+#: CPortSetup.dfm:24
+msgid "OK"
+msgstr ""
+
+#. ComSetupFrm..Button2..Caption
+#. ComTrmSetForm..Button2..Caption
+#: CPortSetup.dfm:34
+msgid "Cancel"
+msgstr "Annuler"
+
+#. ComSetupFrm..GroupBox1..Caption
+#: CPortSetup.dfm:43
+msgid " Settings "
+msgstr " Params"
+
+#. ComSetupFrm..GroupBox1..Label1..Caption
+#: CPortSetup.dfm:50
+msgid "Port"
+msgstr "Port"
+
+#. ComSetupFrm..GroupBox1..Label2..Caption
+#: CPortSetup.dfm:57
+msgid "Baud rate"
+msgstr "Baud"
+
+#. ComSetupFrm..GroupBox1..Label3..Caption
+#: CPortSetup.dfm:64
+msgid "Data bits"
+msgstr "Bits données"
+
+#. ComSetupFrm..GroupBox1..Label4..Caption
+#: CPortSetup.dfm:71
+msgid "Stop bits"
+msgstr "Bits stop"
+
+#. ComSetupFrm..GroupBox1..Label5..Caption
+#: CPortSetup.dfm:78
+msgid "Parity"
+msgstr "Parité"
+
+#. ComSetupFrm..GroupBox1..Label6..Caption
+#: CPortSetup.dfm:85
+msgid "Flow control"
+msgstr "Contrôle flux"
+
+#. ComSetupFrm..GroupBox1..Combo2..Text
+#: CPortSetup.dfm:93
+msgid "Custom"
+msgstr "Custom"
+
+#. ComSetupFrm..GroupBox1..Combo5..Text
+#. ComTrmSetForm..GroupBox2..ComboBox2....Items.Strings
+#: CPortSetup.dfm:129
+msgid "None"
+msgstr "Aucun"
+
+#. ComSetupFrm..GroupBox1..Combo6..Text
+#: CPortSetup.dfm:141
+msgid "Hardware"
+msgstr "Matériel"
+
+#. ComSetupFrm..GroupBox1..Combo1..Text
+#: CPortSetup.dfm:153
+msgid "COM1"
+msgstr ""
+
+#. ComTrmSetForm..GroupBox1..Caption
+#: CPortTrmSet.dfm:24
+msgid " ASCII Settings "
+msgstr "Param ASCII"
+
+#. ComTrmSetForm..GroupBox1..CheckBox1..Caption
+#: CPortTrmSet.dfm:31
+msgid "Echo typed charachters locally"
+msgstr ""
+
+#. ComTrmSetForm..GroupBox1..CheckBox2..Caption
+#: CPortTrmSet.dfm:39
+msgid "Send line feeds with carriage return"
+msgstr ""
+
+#. ComTrmSetForm..GroupBox1..CheckBox3..Caption
+#: CPortTrmSet.dfm:47
+msgid "Wrap lines that exceed terminal width"
+msgstr ""
+
+#. ComTrmSetForm..GroupBox1..CheckBox4..Caption
+#: CPortTrmSet.dfm:55
+msgid "Force incoming data to 7 bit ASCII"
+msgstr ""
+
+#. ComTrmSetForm..GroupBox1..CheckBox5..Caption
+#: CPortTrmSet.dfm:63
+msgid ""
+"Append line feeds to incoming carriage "
+"return"
+msgstr ""
+
+#. ComTrmSetForm..GroupBox2..Caption
+#: CPortTrmSet.dfm:72
+msgid " Terminal Settings "
+msgstr ""
+
+#. ComTrmSetForm..GroupBox2..Label1..Caption
+#: CPortTrmSet.dfm:79
+msgid "Caret"
+msgstr ""
+
+#. ComTrmSetForm..GroupBox2..Label3..Caption
+#: CPortTrmSet.dfm:86
+msgid "Columns"
+msgstr ""
+
+#. ComTrmSetForm..GroupBox2..Label4..Caption
+#: CPortTrmSet.dfm:93
+msgid "Rows"
+msgstr ""
+
+#. ComTrmSetForm..GroupBox2..Label2..Caption
+#: CPortTrmSet.dfm:100
+msgid "Emulation"
+msgstr ""
+
+#. ComTrmSetForm..GroupBox2..Label5..Caption
+#: CPortTrmSet.dfm:107
+msgid "Cursor keys"
+msgstr ""
+
+#. ComTrmSetForm..GroupBox2..ComboBox1....Items.Strings
+#: CPortTrmSet.dfm:118
+msgid "Block"
+msgstr ""
+
+#. ComTrmSetForm..GroupBox2..ComboBox1....Items.Strings
+#: CPortTrmSet.dfm:119
+msgid "Underline"
+msgstr ""
+
+#. ComTrmSetForm..GroupBox2..ComboBox2....Items.Strings
+#: CPortTrmSet.dfm:130
+msgid "ANSI/VT100"
+msgstr ""
+
+#. ComTrmSetForm..GroupBox2..ComboBox2....Items.Strings
+#: CPortTrmSet.dfm:131
+msgid "VT52"
+msgstr ""
+
+#. ComTrmSetForm..GroupBox2..ComboBox3....Items.Strings
+#: CPortTrmSet.dfm:143
+msgid "Act as terminal keys"
+msgstr ""
+
+#. ComTrmSetForm..GroupBox2..ComboBox3....Items.Strings
+#: CPortTrmSet.dfm:144
+msgid "Act as windows keys"
+msgstr ""
+
+#. DebugForm..Caption
+#. MainForm..DebugCB..Caption
+#: Debug.dfm:8
+msgid "Debug"
+msgstr "Debug"
+
+#. DebugForm..Label6..Caption
+#. DetailForm..RequestEdit..EditLabel.Caption
+#. MainForm..RequestPanel..RequestList....TitleCaptions.Strings
+#. MainForm..RequestBtn..Caption
+#. Programmer's name for it: RequestBtnTxt
+#: Debug.dfm:32
+msgid "Request"
+msgstr "Requête"
+
+#. DebugForm..Label7..Caption
+#. DetailForm..Label1..Caption
+#. MainForm..RequestPanel..RequestList....TitleCaptions.Strings
+#: Debug.dfm:39
+msgid "Result"
+msgstr "Résultat"
+
+#. DebugForm..StayOnTopCB..Caption
+#: Debug.dfm:66
+msgid "Stay on top"
+msgstr "Toujours devant"
+
+#. DebugForm..ClearBtn..Caption
+#: Debug.dfm:78
+msgid "Clear"
+msgstr "Effacer"
+
+#. DetailForm..Caption
+#: Detail.dfm:6
+msgid "Detail"
+msgstr "Détail"
+
+#. LicenceForm..Caption
+#: Licence.dfm:5
+msgid "License to"
+msgstr "Licence à"
+
+#. MainForm..Caption
+#: Main.dfm:6
+msgid "ModBus Master Request Tool Pro Version"
+msgstr ""
+
+#. MainForm..Logo..Hint
+#: Main.dfm:29
+msgid "www.soft-control.fr"
+msgstr ""
+
+#. MainForm..CPort_Settings..Caption
+#: Main.dfm:113
+msgid "COM Settings"
+msgstr "COM Config"
+
+#. MainForm..CPort_Open..Caption
+#: Main.dfm:122
+msgid "COM Open"
+msgstr "COM Ouvrir"
+
+#. MainForm..CPort_Close..Caption
+#: Main.dfm:131
+msgid "COM Close"
+msgstr "COM Fermer"
+
+#. MainForm..StatusBar....SimpleText
+#: Main.dfm:145
+msgid ""
+"Software published by Soft-Control / Please visit us at "
+"www.soft-control.fr / (c) 2006-2011 Estrada "
+"Guillaume"
+msgstr ""
+"Un logiciel édité par Soft-Control / Visitez notre site "
+"www.soft-control.fr / (c) 2006-2011 Estrada "
+"Guillaume"
+
+#. MainForm..MBusPanel..Label2..Caption
+#: Main.dfm:159
+msgid "Var Address"
+msgstr "Adresse var"
+
+#. MainForm..MBusPanel..Label3..Caption
+#: Main.dfm:166
+msgid "Var Length"
+msgstr "Long var"
+
+#. MainForm..MBusPanel..Label4..Caption
+#: Main.dfm:173
+msgid "Function Code"
+msgstr "Code fonction"
+
+#. MainForm..MBusPanel..Label5..Caption
+#: Main.dfm:180
+msgid "Value to write"
+msgstr "Valeur à écrire"
+
+#. MainForm..MBusPanel..Label1..Caption
+#: Main.dfm:194
+msgid "Slave adr"
+msgstr "Adr esclave"
+
+#. MainForm..MBusPanel..FunctionCBox....Items.Strings
+#: Main.dfm:226
+msgid "ReadCoilStatus=1"
+msgstr ""
+
+#. MainForm..MBusPanel..FunctionCBox....Items.Strings
+#: Main.dfm:227
+msgid "ReadInputStatus=2"
+msgstr ""
+
+#. MainForm..MBusPanel..FunctionCBox....Items.Strings
+#: Main.dfm:228
+msgid "ReadNHoldingRegister=3"
+msgstr ""
+
+#. MainForm..MBusPanel..FunctionCBox....Items.Strings
+#: Main.dfm:229
+msgid "ReadNInputRegister=4"
+msgstr ""
+
+#. MainForm..MBusPanel..FunctionCBox....Items.Strings
+#: Main.dfm:230
+msgid "WriteCoil=5"
+msgstr ""
+
+#. MainForm..MBusPanel..FunctionCBox....Items.Strings
+#: Main.dfm:231
+msgid "Write1Register=6"
+msgstr ""
+
+#. MainForm..MBusPanel..FunctionCBox....Items.Strings
+#: Main.dfm:232
+msgid "WriteNCoil=15"
+msgstr ""
+
+#. MainForm..MBusPanel..FunctionCBox....Items.Strings
+#: Main.dfm:233
+msgid "WriteNRegister=16"
+msgstr ""
+
+#. MainForm..MBusPanel..BitCBox..Caption
+#: Main.dfm:251
+msgid "Bit 0 / 1"
+msgstr ""
+
+#. MainForm..MBusPanel..AddBtn..Caption
+#: Main.dfm:270
+msgid "Add\n"
+"Right-click to duplicate request\n"
+"Middle-click to duplicate request automatically and to increment slave address"
+msgstr "Ajouter\n"
+"Clic souris droit pour dupliquer la requête\n"
+"Clic souris milieu pour dupliquer la requête et incrémenter l'adresse esclave automatiquement"
+
+#. MainForm..MBusPanel..DelBtn..Caption
+#: Main.dfm:285
+msgid "Delete"
+msgstr "Effacer"
+
+#. MainForm..MBusPanel..LoadBtn..Caption
+#: Main.dfm:300
+msgid "Load"
+msgstr "Charger"
+
+#. MainForm..MBusPanel..SaveBtn..Caption
+#: Main.dfm:315
+msgid "Save"
+msgstr "Sauver"
+
+#. MainForm..MBusPanel..ClearBtn..Caption
+#: Main.dfm:330
+msgid "Clear all"
+msgstr "Effacer tout"
+
+#. MainForm..MBusPanel..ExportBtn..Caption
+#: Main.dfm:345
+msgid "Export Result"
+msgstr "Exporter"
+
+#. MainForm..RequestPanel..RequestList..Hint
+#: Main.dfm:372
+msgid "Double click for detail"
+msgstr "Double click pour le détail"
+
+#. MainForm..RequestBtn..Hint
+#: Main.dfm:393
+msgid "Execute all requests from the list"
+msgstr "Exécuter toutes les requêtes"
+
+#. MainForm..LoopCB..Caption
+#: Main.dfm:412
+msgid "Loop"
+msgstr "Boucle"
+
+#. MainForm..OpenDlg..DefaultExt
+#. MainForm..SaveDlg..DefaultExt
+#: Main.dfm:427
+msgid ".Req"
+msgstr ""
+
+#. MainForm..OpenDlg..Filter
+#. MainForm..SaveDlg..Filter
+#: Main.dfm:428
+msgid "Request|*.Req"
+msgstr "Requête|*.Req"
+
+#. MainForm..OpenDlg..InitialDir
+#. MainForm..SaveDlg..InitialDir
+#. MainForm..SaveExportDlg..InitialDir
+#: Main.dfm:429
+msgid "."
+msgstr ""
+
+#. MainForm..SaveExportDlg..DefaultExt
+#: Main.dfm:441
+msgid ".txt"
+msgstr ""
+
+#. MainForm..SaveExportDlg..Filter
+#: Main.dfm:442
+msgid "Text|*.txt"
+msgstr "Texte|*.txt"
+
+#. MainForm..SysPopupMenu..LicenceMenu..Caption
+#: Main.dfm:463
+msgid "License"
+msgstr "Licence"
+
+#. create exception with windows error code
+#: CPort.pas:3217
+msgid " (win error code: %d)"
+msgstr ""
+
+#: CPort.pas:3455
+msgid "Unable to open com port"
+msgstr "Impossible d'ouvrir le port COM"
+
+#: CPort.pas:3456
+msgid "WriteFile function failed"
+msgstr ""
+
+#: CPort.pas:3457
+msgid "ReadFile function failed"
+msgstr ""
+
+#: CPort.pas:3458
+msgid "Invalid Async parameter"
+msgstr ""
+
+#: CPort.pas:3459
+msgid "PurgeComm function failed"
+msgstr ""
+
+#: CPort.pas:3460
+msgid "Unable to get async status"
+msgstr ""
+
+#: CPort.pas:3461
+msgid "SetCommState function failed"
+msgstr ""
+
+#: CPort.pas:3462
+msgid "SetCommTimeouts failed"
+msgstr ""
+
+#: CPort.pas:3463
+msgid "SetupComm function failed"
+msgstr ""
+
+#: CPort.pas:3464
+msgid "ClearCommError function failed"
+msgstr ""
+
+#: CPort.pas:3465
+msgid "GetCommModemStatus function failed"
+msgstr ""
+
+#: CPort.pas:3466
+msgid "EscapeCommFunction function failed"
+msgstr ""
+
+#: CPort.pas:3467
+msgid "TransmitCommChar function failed"
+msgstr ""
+
+#: CPort.pas:3468
+msgid "Cannot set property while connected"
+msgstr ""
+
+#: CPort.pas:3469
+msgid "EnumPorts function failed"
+msgstr ""
+
+#: CPort.pas:3470
+msgid "Failed to store settings"
+msgstr ""
+
+#: CPort.pas:3471
+msgid "Failed to load settings"
+msgstr ""
+
+#: CPort.pas:3472
+msgid "Link (un)registration failed"
+msgstr ""
+
+#: CPort.pas:3473
+msgid ""
+"Cannot change led state if ComPort is "
+"selected"
+msgstr ""
+
+#: CPort.pas:3474
+msgid ""
+"Cannot wait for event if event thread is "
+"created"
+msgstr ""
+
+#: CPort.pas:3475
+msgid "WaitForEvent method failed"
+msgstr ""
+
+#: CPort.pas:3476
+msgid "A component is linked to OnRxBuf event"
+msgstr ""
+
+#: CPort.pas:3477
+msgid "Registry error"
+msgstr ""
+
+#. Programmer's name for it: StopBtnTxt
+#: Main.pas:92
+msgid "Stop"
+msgstr "Arrêt"
+
+#. Programmer's name for it: RequestNbTxt
+#. Request
+#: Main.pas:93
+msgid "Request number "
+msgstr "Requête n°"
+
+#. Demo mode
+#: Main.pas:155
+msgid "Demonstration"
+msgstr "Démonstration"
+
+#: Main.pas:187
+msgid "Error COM port"
+msgstr "Erreur port COM"
+
+#: Main.pas:204
+msgid "COM port closed"
+msgstr "COM fermé"
+
+#. Request string
+#: Main.pas:253
+msgid " / Request number "
+msgstr " / Requête n°"
+
+#. Error code
+#: Main.pas:261
+msgid "Request ok"
+msgstr "Requête ok"
+
+#: Main.pas:262
+msgid "Exception"
+msgstr "Exception"
+
+#: Main.pas:263
+msgid "Answer error"
+msgstr "Erreur de réponse"
+
+#: Main.pas:266
+msgid "Unknown error"
+msgstr "Erreur inconnue"
+
+#. Anwser string
+#: Main.pas:277
+msgid " / Answer "
+msgstr " / Réponse"
+
+#. ReadRegister result
+#. ReadCoilInput status result
+#: Main.pas:293
+msgid " / Result "
+msgstr " / Résultat"
+
+msgid "COM port opened"
+msgstr "COM ouvert"
+
+msgid "Request error"
+msgstr "Erreur"
+
+msgid "Request all"
+msgstr "Requêtes"
+
+msgid "Execute one request"
+msgstr "Exécute une requête"
+
+msgid "Transfer"
+msgstr "Transfert"
+
+msgid "File"
+msgstr "Fichier"
+
+msgid "Start address"
+msgstr "Adresse de début"
+
+msgid "Length"
+msgstr "Longueur"
+
+msgid "Send to plc"
+msgstr "Envoyer à l'API"
+
+msgid "Get from plc"
+msgstr "Recevoir de l'API"
+
+msgid "Num"
+msgstr "No"
+
+msgid "Value"
+msgstr "Valeur"
+
+msgid "Connecting to plc..."
+msgstr "Connexion à l'API"
+
+msgid "Error !"
+msgstr "Erreur !"
+
+msgid "Reading address %d"
+msgstr "Lecture à l'adresse %d"
+
+msgid "Error in reading address %d !"
+msgstr "Erreur de lecture à l'adresse %d !"
+
+msgid "Get from plc terminated"
+msgstr "Réception de l'API terminée"
+
+msgid "Writing address %d"
+msgstr "Ecriture à l'adresse %d"
+
+msgid "Error in writing address %d !"
+msgstr "Erreur d'écriture à l'adresse %d !"
+
+msgid "Send to plc terminated"
+msgstr "Envoi à l'API terminé"
+
+msgid "Save terminated"
+msgstr "Sauvegarde terminée"
+
+msgid "Load terminated"
+msgstr "Chargement terminé"
+
+msgid "File name"
+msgstr "Nom du fichier"
+
+msgid "Do a data transfer Plc<->File"
+msgstr "Transfert de données API<->Fichier"
+
+msgid "Data transfer"
+msgstr "Transfert de données"
+
+msgid "Ready"
+msgstr "Prêt"
+
+msgid "IP Address"
+msgstr "Adresse IP"
+
+msgid "IP Port"
+msgstr "Port IP"
+
+msgid ""
+".:. Demonstration .:. Load command not allowed "
+".:."
+msgstr ""
+".:. Démonstration .:. Commande Charger indisponible "
+".:."
+
+msgid "Timeout"
+msgstr "Timeout"
+
+msgid "Timeout in milliseconds"
+msgstr "Timeout en millisecondes"
+
+msgid "Slave unit address"
+msgstr "Adresse de l'unité esclave"
+
+msgid "Scan"
+msgstr "Scan"
+
+msgid "Start parameters"
+msgstr "Paramètres de départ"
+
+msgid "End parameters"
+msgstr "Paramètres de fin"
+
+msgid "Scanning address %s"
+msgstr "Scan de l'adresse %s"
+
+msgid "Connection error"
+msgstr "Erreur de connexion"
+
+msgid "Address %d.%d.%d.%d -> %s"
+msgstr "Adresse %d.%d.%d.%d -> %s"
+
+msgid "Address %d.%d.%d.%d/%d -> %s"
+msgstr "Adresse %d.%d.%d.%d/%d -> %s"
+
+msgid "Connected and request ok"
+msgstr "Connecté et requête ok"
+
+msgid "Connected but request error"
+msgstr "Connecté mais erreur de requête"
+
+msgid "Connected but request exception %d"
+msgstr "Connecté mais erreur d'exception %d"
+
+msgid "Scanning terminated"
+msgstr "Scan terminé"
+
+msgid "Show only right result"
+msgstr "Uniquement les résultats positifs"
+
+msgid ""
+"Note: a low timeout can result wrong scan "
+"result."
+msgstr ""
+"Note: un timeout bas peut engendrer de faux "
+"résultat."
+
+msgid "No answer"
+msgstr "Pas de réponse"
+
+msgid "Exception (%d)"
+msgstr "Exception (%d)"
+
+msgid "Request error: %s"
+msgstr "Erreur dans la requête: %s"
+
+msgid "Ip"
+msgstr "Ip"
+
+msgid "Slave"
+msgstr "Esclave"
+
+msgid "Function"
+msgstr "Fonction"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Binary"
+msgstr "Binaire"
+
+msgid "Enter a name"
+msgstr "Entrer un nom"
+
+msgid "Prompt"
+msgstr "Invite"
+
+msgid "Double click to edit"
+msgstr "Double clic pour éditer"
+
+msgid "Load a model"
+msgstr "Charger modèle"
+
+msgid "Save as model"
+msgstr "Sauver en modèle"
+
+msgid "Enter a model name"
+msgstr "Entrer un nom de modèle"
+
+msgid "Model"
+msgstr "Modèle"
+
+msgid "Model saved."
+msgstr "Modèle sauvé."
+
+msgid "Try all speed configuration"
+msgstr "Test de toutes les vitesses"
+
+msgid "Using baudrate: %s bps"
+msgstr "Vitesse: %s bps"
+
+msgid "Start adr"
+msgstr "Adr début"
+
+msgid "End adr"
+msgstr "Adr fin"
+
+msgid "Address %d -> %s"
+msgstr "Adresse %d -> %s"
+
+msgid "Request in progress... "
+msgstr "Requête en cours... "
+
+msgid "Error"
+msgstr "Erreur"
+
+msgid "Move request up"
+msgstr "Déplacer la requête vers le haut"
+
+msgid "Move request down"
+msgstr "Déplacer la requête vers le bas"
+
+msgid "Error: No com port available ?"
+msgstr ""
+"Erreur: Aucun port com de disponible "
+"?"
+
+msgid "Welcome..."
+msgstr "Bienvenue..."
+
+msgid "Connection"
+msgstr "Connexion"
+
+msgid "About"
+msgstr "Au sujet de"
+
+msgid "Last change"
+msgstr "Modifié le"
+
+msgid "Last change value tracker"
+msgstr "Traqueur de valeurs"
+
+msgid "Tracker"
+msgstr "Traqueur"
+
+msgid "Log"
+msgstr "Journal"
+
+msgid "%s / New value %s (Old value %s)"
+msgstr ""
+"%s / Nouvelle valeur %s (Ancienne valeur "
+"%s)"
+
+msgid ""
+"To free register your software, fill in the form and then please "
+"click the register button. Finally enter the registration code "
+"received in your email box."
+msgstr ""
+"Pour enregistrer ce logiciel, remplissez le formulaire et ensuite "
+"cliquez sur le bouton. Terminez en entrant le code reçu dans votre "
+"boite email."
+
+msgid "Register"
+msgstr "Enregistrer"
+
+msgid "Registration done."
+msgstr "Enregistrement réussi."
+
+msgid "Registration failed."
+msgstr "Enregistrement échoué."
+
+msgid "Byte swap"
+msgstr "Swap d'octet"
+
+msgid "Response time"
+msgstr "Délai réponse"
+
+msgid "Custom request is active"
+msgstr "Requête personnalisée active"
+
+msgid "Custom request to send during the scan "
+msgstr "Requête personnalisée à envoyer pour le scan"
+
+msgid "Custom request"
+msgstr "Requête personnalisée"
+
+msgid "Custom scan request"
+msgstr "Requête personnalisée pour le scan"
+
+msgid "File loaded"
+msgstr "Fichier chargé"
+
+
+
+
+

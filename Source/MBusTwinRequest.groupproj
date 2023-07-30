@@ -1,0 +1,36 @@
+﻿	<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+		<PropertyGroup>
+			<ProjectGuid>{68783241-65B5-4E73-9DF1-34A4B34E9AA7}</ProjectGuid>
+		</PropertyGroup>
+		<ItemGroup>
+			<Projects Include="MBusTwinRequest\MBusTwinRequestPro.dproj">
+				<Dependencies/>
+			</Projects>
+		</ItemGroup>
+		<ProjectExtensions>
+			<Borland.Personality>Default.Personality.12</Borland.Personality>
+			<Borland.ProjectType/>
+			<BorlandProject>
+				<Default.Personality/>
+			</BorlandProject>
+		</ProjectExtensions>
+		<Target Name="MBusTwinRequestPro">
+			<MSBuild Projects="MBusTwinRequest\MBusTwinRequestPro.dproj"/>
+		</Target>
+		<Target Name="MBusTwinRequestPro:Clean">
+			<MSBuild Projects="MBusTwinRequest\MBusTwinRequestPro.dproj" Targets="Clean"/>
+		</Target>
+		<Target Name="MBusTwinRequestPro:Make">
+			<MSBuild Projects="MBusTwinRequest\MBusTwinRequestPro.dproj" Targets="Make"/>
+		</Target>
+		<Target Name="Build">
+			<CallTarget Targets="MBusTwinRequestPro"/>
+		</Target>
+		<Target Name="Clean">
+			<CallTarget Targets="MBusTwinRequestPro:Clean"/>
+		</Target>
+		<Target Name="Make">
+			<CallTarget Targets="MBusTwinRequestPro:Make"/>
+		</Target>
+		<Import Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')" Project="$(BDS)\Bin\CodeGear.Group.Targets"/>
+	</Project>

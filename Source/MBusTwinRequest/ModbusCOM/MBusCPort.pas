@@ -236,7 +236,7 @@ begin
     if FErrorCode = MBus_OK then
     begin
       J := 0;
-      N := Word(FAnswerBuf[2]) div 2;
+      N := (Word(FAnswerBuf[2]) div 2) -1;  // Bug corrected by Antonio Carlos 02/2024
       for I := 0 to N do
       begin
         FWordsArray[I] := (byte(FAnswerBuf[J+3])*256)+(byte(FAnswerBuf[J+4]));

@@ -16,4 +16,8 @@ Features
 · Value tracker
 
 
-Version: 1.3.0.2
+
+--------------
+
+Feb 2024 v1.3.0.4 
+Bug fix by Antonio Carlos on error with read holding registers (03) with more than one registers.
